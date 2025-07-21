@@ -44,6 +44,6 @@ main{
   flex-direction: column;
   align-self: flex-start;
   gap:10px;
-  background-color: red;
+  background-color: rgb(179, 113, 113);
   
 }
